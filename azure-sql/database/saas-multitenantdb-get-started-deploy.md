@@ -267,7 +267,7 @@ A [series of related tutorials] is available that build upon this initial deploy
 
 -->
 
-[link-aka-ms-deploywtp-mtapp-52k]: https://aka.ms/deploywtp-mtapp
+[link-aka-ms-deploywtp-mtapp-52k]: https://aka.ms/deploywingtipmt
 
 
 [link-azure-get-started-powershell-41q]: /powershell/azure/get-started-azureps
